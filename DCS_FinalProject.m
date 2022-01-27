@@ -1,6 +1,5 @@
 %% Digital Communications System (2021 Spring) 
-%%           Final Project                     
-%             2019146018 송연주                            
+%%           Final Project                                                
 
 close all;clear;clc;
 
